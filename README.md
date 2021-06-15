@@ -13,14 +13,17 @@ If there is one thing that I consider myself to be terrible at presentations. Bu
 
 :purple_heart: I fight for a more diverse a inclusive world. In a world of ones and zeros, we go for diversity.
 
-:maple_leaf: My hair is generally a mess. I like taking photos of nature and looking at the moon.
+:maple_leaf: My hair is a mess. I like taking photos of nature and looking at the moon.
 _________________
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antomartini&layout=compact)
 
 _________________
 
-Get in touch:<br/>
+<h2>Get in touch:</h2>
 ✨ Twitter: https://twitter.com/antoomartini <br/>
 ✨ Instagram: https://instagram.com/antoomartini<br/>
-✨ Linkedin: https://linkedin.com/mariaantonellamartini
+✨ Linkedin: https://www.linkedin.com/in/maria-antonella-martini/
+
+_________________
+
